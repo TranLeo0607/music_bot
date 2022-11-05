@@ -1,0 +1,21 @@
+{
+    "name": "loetrip-bot",
+    "version": "1.0.0",
+    "description": "For my idiot friends.",
+    "main": "main.js",
+    "author": "Leo Tran",
+    "dependencies": {
+        "@discordjs/voice": "^0.7.5",
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "discord.js": "^12.5.3",
+        "dotenv": "^14.2.0",
+        "ffmpeg-binaries": "^3.2.2-3",
+        "ffmpeg-static": "^4.4.1",
+        "m3u8stream": "^0.8.6",
+        "opusscript": "^0.0.8",
+        "winston": "^3.4.0",
+        "yt-search": "^2.10.3",
+        "ytdl-core": "^4.10.0",
+        "ytpl": "^2.3.0"
+    }
+}
