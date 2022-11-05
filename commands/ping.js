@@ -6,7 +6,7 @@ module.exports = {
     async execute(message, args, cmd, client, Discord){
         //If the user has used the play command
         if (cmd === 'ping'){
-            
+            message.channel.send('pong');
         }
     }
     
